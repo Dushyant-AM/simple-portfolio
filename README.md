@@ -1,4 +1,4 @@
-![Screenshot 2025-02-18 022234](https://github.com/user-attachments/assets/9fd57290-e2fa-4793-9732-f39484e2f918)# Dushyanth A M - Portfolio Website
+# Dushyanth A M - Portfolio Website
 # Description
 This repository contains the source code for Dushyanth A M's personal portfolio website. The site is built with HTML, CSS, and Bootstrap 5, showcasing Dushyanth's professional background, skills, education, projects, and experience in a clean, responsive layout.
 # Preview
